@@ -1,0 +1,8 @@
+<div class="view"> 
+                        <img src="img/1.jpg" />
+                        <div class="mask">
+                            <h2>item.first_name</h2>
+                            <p>hola que tal</p> 
+                            <a href="#" class="info">item.age</a> 
+                        </div>
+                    </div>

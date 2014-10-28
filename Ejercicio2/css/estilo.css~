@@ -1,0 +1,12 @@
+body{
+	background-color: blue;
+}
+
+.parrafo{
+	color:#ffffff;
+}
+
+#miauto{
+	width: 80px;
+	height: 80px;
+}

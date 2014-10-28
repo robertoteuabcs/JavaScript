@@ -1,0 +1,28 @@
+.view{
+   display: inline-block;
+   margin: 0 10px;
+   width:300px;
+   
+}
+
+.view img{
+position:absolute;
+
+}
+.view img:hover{
+  
+   box-shadow:  10px 10px 5px #888888;
+}
+.view .mask{
+   position: relative;
+   text-align: center;
+}
+.view a.info{
+   background: black;
+   color: white;
+   padding: 8px;
+}
+#btnUpdate{
+   display:none;
+}
+

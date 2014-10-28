@@ -1,0 +1,23 @@
+
+
+var button = document.getElementById('crearButton');
+var nombre = document.getElementById('name');
+var apellido = document.getElementById('lastName');
+var edad = document.getElementById('age');
+
+var arreglo = [];
+
+button.addEventListener('click',crear);
+
+function crear(){
+    
+    console.log(nombre.value);
+    console.log(apellido.value);
+    console.log(edad.value);
+    
+ 
+
+    arreglo.push(new Persona (nombre.value, apellido.value, edad.value));
+    console.log(arreglo);
+}
+

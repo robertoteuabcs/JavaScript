@@ -1,0 +1,285 @@
+@charset "utf-8";
+.main {
+	font-family: "Times New Roman";
+	font-size: 46px;
+	color: #FFF;
+	background-image: url(../images/main-bg.jpg);
+	background-repeat: repeat-x;
+	background-color: #FFF;
+	padding: 40px;
+	width: 1054px;
+	display: inline-block;
+	margin-bottom: 40px;
+}
+
+.tabla{
+	width: 200;
+	font-family: Arial;
+	font-size: 14px;
+	display: inline-block;
+	border-top-width: 1;
+	border-right-width: 1;
+	border-bottom-width: 1;
+	border-left-width: 1;
+	color: #FFF;
+	margin: 20px;
+}
+.clean {
+	width: 811px;
+	height: 60px;
+	background-image: url(../images/featured-section-title.png);
+	margin-top: 40px;
+	margin-right: 40px;
+	margin-bottom: 0px;
+	margin-left: 40px;
+
+}
+.clean2 {
+	width: 720px;
+	height: 60px;
+	background-image: url(../images/featured-section-subtitle.png);
+	display:inline-block;
+	margin-left: 40px;
+	margin-bottom: 20px;
+}
+.text {
+	width: 960px;
+	height: 120px;
+	background-image: url(../images/featured-section-text.png);
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	margin-left: 40px;
+}.linea {
+	background-image: url(../images/horizontal-line.png);
+	height: 10px;
+	width: 1000px;
+	margin-left: 40px;
+	margin-bottom: 20px;
+}
+
+.cuadro {
+	background-image: url(../images/service-box-bg.png);
+	margin-left: 40px;
+	display: inline-block;
+	width: 280px;
+	float: none;
+	
+}
+
+
+.imagen {
+	background-image: url(../images/web-design-title.png);
+	width: 180px;
+	height: 50px;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-left: 50px;
+}
+
+.imagen2 {
+	background-image: url(../images/marketing-title.png);
+	width: 200px;
+	height: 50px;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-left: 50px;
+}
+
+.imagen3 {
+	background-image: url(../images/optimization-title.png);
+	width: 200px;
+	height: 50px;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-left: 50px;
+}
+.horizontaldescri {
+	background-image: url(../images/service-dotted-line.png);
+	width: 250px;
+	height: 3px;
+	margin: 15px;
+}
+.textodisen {
+	font-family: "Times New Roman";
+	font-size: 17px;
+	color: #FFF;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-left: 20px;
+	width: auto;
+	text-align: center;
+}
+.imagen2dise {
+	background-image: url(../images/get-more-details-button.jpg);
+	margin: 20px;
+	width: 230px;
+	height: 40px;
+}
+
+.imagen2dise2 {
+	background-image: url(../images/view-case-studies-button.jpg);
+	margin: 20px;
+	width: 230px;
+	height: 40px;
+}
+
+.imagen2dise3 {
+	background-image: url(../images/learn-more-button.jpg);
+	margin: 20px;
+	width: 230px;
+	height: 40px;
+}
+.cuadroPrinciap {
+	width: 640px;
+	display: inline-block;
+	margin-bottom: 40px;
+}
+.cuadrotestimoneal {
+	height: 600px;
+	width: 1024px;
+	display: inline-block;
+	float: left;
+}
+.izquierdo {
+	height: 800px;
+	width: 25px;
+	display: inline-block;
+}
+.imagencliente {
+	background-image: url(../images/author-img-1.jpg);
+	display: inline-block;
+	float: left;
+	width: 78px;
+	height: 78px;
+	margin-top: 60px;
+	margin-right: 15px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+}
+.imgtesti {
+	background-image: url(../images/client-testimonials.png);
+	height: 28px;
+	width: 180px;
+	margin-top: 35px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	margin-left: 40px;
+	display:inline-block;
+}
+.izquierdo1 {
+	height: 100px;
+	width: 400px;
+	display:inline-block;
+}
+.izquierda1texto {
+	font-family: "Times New Roman";
+	font-size: 12px;
+	color: #000;
+	display: inline-block;
+	height: 50px;
+	width: 260px;
+	float: left;
+	margin-top: 60px;
+	margin-right: 15px;
+	margin-bottom: 5px;
+}
+
+.izquierdo2 {
+	height: 100px;
+	width: 400px;
+	padding-top: 80px;
+	padding-right: 40px;
+	padding-bottom: 20px;
+	display:inline-block;
+}
+
+.izquierdasegundo {
+	margin: 20px;
+	height: 50px;
+	width: 100px;
+	display:inline-block;
+}
+.azul {
+	color: #09F;
+}
+.imagencliente2 {
+	background-image: url(../images/author-img-2.jpg);
+	display: inline-block;
+	float: left;
+	width: 78px;
+	height: 78px;
+}
+
+.izquierda1texto2 {
+	font-family: "Times New Roman";
+	font-size: 12px;
+	color: #000;
+	display: inline-block;
+	height: 50px;
+	width: 260px;
+	float: left;
+	padding-left: 20px;
+
+}
+
+.imagencliente3 {
+	background-image: url(../images/author-img-3.jpg);
+	display: inline-block;
+	float: left;
+	width: 78px;
+	height: 78px;
+}
+
+.izquierda1texto3 {
+	font-family: "Times New Roman";
+	font-size: 12px;
+	color: #000;
+	display: inline-block;
+	height: 50px;
+	width: 260px;
+	float: left;
+	padding-left: 20px;
+
+}
+
+.izquierdo3 {
+	height: 100px;
+	width: 400px;
+	display:inline-block;
+}
+
+.lineavertical {
+	background-image: url(../images/vertical-line.png);
+	height: 385px;
+	width: 4px;
+	display: inline-block;
+	margin-left: 400px;
+}
+.derechotesti {
+	height: 460px;
+	width: 480px;
+	display:inline-block;
+	float:right;
+}
+.featured {
+	background-image: url(../images/featured-project-title.png);
+	height: 32px;
+	width: 160px;
+	display:inline-block;
+}
+.yoshioteam {
+	background-image: url(../images/featured-project-image.png);
+	float: left;
+	height: 216px;
+	width: 440px;
+}
+.textofinal {
+}
+
+.cuadromedio{
+	width: 800;
+	height: 300;
+	display: inline-block;
+}

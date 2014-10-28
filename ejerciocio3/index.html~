@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Ejercicio 3</title>
+	<link rel="stylesheet" href="css/estilo.css"/>
+</head>
+<body>
+	<div id="main-control">
+		<div id="header">
+			
+			<h1 > Jose Roberto Bourjac Tanori</h1>
+		</div>
+		<div class="left-content">
+		<p  >Mi nombre es <strong>Jose Roberto Bourjac Tanori</strong>estudio licenciatura en computacion
+				<i>5 Semestre<sub>universidad</sub> <sup>Autonoma</sup></i>de <u>Baja California Sur</u></p>
+		<p > Unos de mis pasatiempos es disfrutar de la naturaleza y darme cuenta lo bello que es el mundo</p>
+		<p > Me interesa todo lo relacionado de la computadora</p>
+		<p > sitos Favoritos:</div></p>
+
+		<br>
+		<br>
+		<br>
+		<br>
+		
+		<div class="left-content" >
+		<ol >
+		
+				<li>Ganster Americano</li>
+				<li>Saw</li>
+				<li>Hostal</li>
+				<li>Yo</li>
+				<li>Forrest</li>
+		</div>
+
+		</ol>
+		<br>
+		<br>
+		<div class="left-content">
+		<center  ><ul>
+				<li>El jarron da forma al vacio y la musica al silencio.</li>
+				<li>Todo lo que insistes en ignorar de ti mismo, tarde o temprano te hara la vida imposible.</li>
+				<li>La diferencia entre lo sutil y lo vulgar no esta mas que en tu ignorancia. </li>
+				<li>La pereza viaja tan despacio que la pobreza no tarda en alcanzarla. </li>
+		</center></ul>
+		</div>
+	<img id="miauto" src="imagen/1.jpg">
+
+
+<video src="video/video.ogv" width="300" height="208" preload="none" controls></video> 
+
+				<table>
+					<thead>
+						<tr>
+							<th>Culturales</th>
+							<th>Sociales</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>Canto</td>
+							<td><center>Mexico</center></td>
+						</tr>
+
+					</tbody>
+				</table>
+	
+
+	<br>
+ 	<br>
+	
+	</div>
+
+</body>
+
+</html>
